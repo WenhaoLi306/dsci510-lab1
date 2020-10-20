@@ -1,0 +1,13 @@
+,NiceClub,BadClub,MomClub,DadClub,FriendClub,TurtleClub,LoveClub
+Adam.Smith,0,1,1,1,1,1,0
+Kevein.Long,1,0,1,0,1,0,1
+Smart.People,1,1,1,1,1,0,1
+Luc.Lucky,1,0,1,1,0,0,0
+Busy.Man,0,0,0,0,0,1,0
+Mom.Dad,0,0,1,1,1,0,1
+Holey.Maw,1,1,1,1,0,1,1
+Casein.Protein,1,0,1,1,1,0,0
+Miso.Ramen,1,0,1,0,1,1,1
+Cashews.Net,1,1,1,1,1,0,0
+Vitamin.Bin,1,1,0,0,0,0,0
+Heavy.Met,0,0,1,1,0,1,1
